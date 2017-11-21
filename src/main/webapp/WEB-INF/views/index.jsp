@@ -3,7 +3,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
   <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title>JavaSpringWebApp</title>
     <meta name="description" content="" />
 
@@ -34,8 +34,8 @@
           <ul>
             <li><a class="home-link" href="https://aws.amazon.com/">Home</a></li>
             <li><a href="https://aws.amazon.com/what-is-cloud-computing/">About</a></li>
-            <li><a href="https://aws.amazon.com/solutions/">Services</a></li>
-            <li><a href="https://aws.amazon.com/contact-us/">Contact</a></li>
+            <li><a href="https://aws.amazon.com/solutions/">Сервисы</a></li>
+            <li><a href="https://aws.amazon.com/contact-us/">Контакты</a></li>
           </ul>
         </nav>
       </header>
